@@ -1,0 +1,12 @@
+Today's Notes
+
+1. Learn Python
+2. Practice File Handling
+3. Complete Assignment
+
+prepare for exam 
+
+1.Python
+2.Functions
+3.Modules
+4.File Handling

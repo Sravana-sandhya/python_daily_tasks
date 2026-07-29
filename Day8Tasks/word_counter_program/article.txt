@@ -1,0 +1,5 @@
+Python is a simple and powerful programming language.
+It is easy to learn and understand.
+Python is used for web development, data science, artificial intelligence, and automation.
+Students use Python to improve their programming skills.
+Practice every day to become a better programmer.
