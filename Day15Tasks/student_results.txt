@@ -1,0 +1,4 @@
+Students scoring above 50:
+Ravi
+Anu
+Average Marks: 56.25

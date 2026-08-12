@@ -1,0 +1,6 @@
+Name,Python,Maths,Science,Average,Grade
+Sravana,43,58,75,58.666666666666664,D
+Ravi,78,98,22,66.0,C
+Anu,63,76,59,66.0,C
+Kiran,17,35,5,19.0,F
+Priya,31,85,26,47.333333333333336,F

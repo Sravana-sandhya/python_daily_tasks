@@ -1,0 +1,11 @@
+login
+open gmail
+download file
+logout
+exit
+close full
+login
+open profile
+check messages
+download files 
+logout

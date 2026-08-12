@@ -1,0 +1,7 @@
+Login successful
+ERROR: Invalid password
+User opened profile
+ERROR: File not found
+Logout successful
+ERROR: Invalid password
+ERROR: Connection failed
